@@ -6,3 +6,6 @@ A puppy wanted to eat cake
 Tree has leaves 
 fish has scales 
 
+Cat drank milk
+Mouse ate cheese 
+Bird sang a song
